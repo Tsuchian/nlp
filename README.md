@@ -1,2 +1,2 @@
 # nlp
-Natural language process learning notes
+Natural language processing notes
